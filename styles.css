@@ -1,0 +1,228 @@
+body{
+  /* background-image: url("https://cdn.spacetelescope.org/archives/images/wallpaper2/heic1509a.jpg"); */
+  /* background-image: url("https://scitechdaily.com/images/Illustration-Photons-Galaxy.jpg"); */
+
+/* background-image: url("https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/03/space_debris/16871918-3-eng-GB/Space_Debris_pillars.jpg"); */
+background-image: url("https://sm.mashable.com/t/mashable_in/photo/default/nasa-galaxy_9pu4.960.jpg");
+
+
+}
+
+.fixed
+{
+  position: fixed;
+  width:200px;
+  top:3px;
+
+
+}
+.rocket
+{
+  width: 100px;
+  height: 160px;
+
+
+}
+.thead{
+  color: #ecdfc8;
+  font-size:50px ;
+  font-family:"Acme";
+  font-weight: 900;
+
+}
+
+.nbar{
+
+margin-right: 20px;
+margin-top:3%;
+
+}
+.nit{
+  margin:7px;
+  text-align: right;
+}
+.sp1{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  top: 200px;
+  right: 300px;
+
+}
+
+
+
+/* img:hover{
+  transform: rotate(30deg);
+} */
+
+
+.card-header{
+  border-color: white;
+}
+.card{
+
+text-align: center;
+border-color:#f1f3f4;
+
+}
+#title{
+text-align: center;
+
+
+
+}
+
+.titlep{
+  font-family: "Kaushan Script";
+   color: #d1cebd;;
+   font-size: 50px;
+
+ }
+ .th4{
+   font-family: "Montez";
+   color: #dee3e2;;
+   font-size: 40px;
+   font-weight: 600;
+ }
+ .task{
+  text-align: center;
+   margin-top:100px;
+   padding: 5% 40%;
+
+
+
+
+
+ }
+ .circular{
+   border-radius: 100%;
+   width: 300px;
+   height: 300px;
+
+ }
+ #explore
+ {
+  padding:10% 0 20%;
+ }
+ .build{
+   height: 160px;
+   width: 140px;
+
+ }
+ .build:hover{
+
+   transform: scale(1.8);
+ }
+.ho2{
+  color: #f1f3f4;
+   font-family: "Montez";
+   font-size: 40px;
+   font-weight: 600;
+
+}
+
+.robo
+{
+height: 160px;
+width: 100px;
+}
+.robo:hover
+{
+  transform: scale(1.8);
+}
+.cars{
+  height: 160px;
+  width: 180px;
+}
+.cars:hover{
+  transform: scale(1.8);
+}
+.time{
+  height: 160px;
+  width: 160px;
+}
+.time:hover{
+  transform: scale(1.8);
+}
+#about{
+  text-align: center;
+  margin: 0 10%;
+  padding: 10% 5% 10%;
+}
+.abo{
+  font-family: "Ubuntu";
+  color: #dee3e2;;
+  font-size: 20px;
+  font-weight: 600;
+
+}
+.aboh{
+  font-family: "Kaushan Script";
+   color: #d1cebd;;
+   font-size: 50px;
+
+
+}
+.about{
+  border: 5px solid;
+  padding: 2% 5%;
+}
+.about:hover
+{
+  transform: scale(1.2);
+}
+.carousel-inner{
+  text-align: center;
+}
+.ideaimage{
+  height: 170px;
+  width:220px;
+  border-radius: 100%;
+
+
+}
+.ideaimage:hover{
+  transform: scale(1.2);
+}
+.ideap{
+  font-family: "Montez";
+  color: #fff;
+  font-size: 60px;
+}
+.cicon{
+  height: 60px;
+  width: 60px;
+}
+form{
+  padding: 20% 0 10%;
+}
+form:hover{
+
+  transform: scale(1.5);
+}
+#idea{
+  padding: 10% 0 20% ;
+}
+label{
+  color: #fff;
+}
+input,textarea{
+  color: #fff;
+}
+.formrow{
+  padding: 0 20%;
+}
+.formimg{
+  height: 400px;
+  width: 400px;
+  border-radius: 100%;
+}
+.formimg:hover{
+  transform:rotate(30deg);
+}
+#footer{
+  text-align: center;
+  color: white;
+}
